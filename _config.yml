@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+title: Posts
+description: Posts
+author: Evan
+github: https://github.com/9tabs
+about: 9tabs is the future of software.
+disqus_shortname: 9tabs
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -19,27 +19,18 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://twitter.com/the9tabs"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/9tabs"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  twitter_username: the9tabs
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://9tabs.github.io"
+url: "https://9tabs.com"
 baseurl: ""
 paginate: 20
 per_page: 20
