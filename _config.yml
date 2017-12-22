@@ -29,6 +29,8 @@ share:
 urls:
     - text: XML Feed
       url: /feed.xml
+    - text: Listicles
+      url: /category/listicles
 
 url: "https://9tabs.com"
 baseurl: ""
