@@ -43,7 +43,7 @@ learning Java as a first programming language, I cannot recommend this book enou
 ## 3. [Head First Design Patterns](http://amzn.to/2zdb7eA) by Freeman and Sierra
 Usually a book on design patterns wouldn't be on a list for beginners, but this one in particular is
 so beginner friendly that it would be a disservice to not mention it. Typically, people bring up the
-famous [Gang of Four (GoF)](http://amzn.to/9BhysgR) book, which is a jam-packed, no-nonsense
+famous [Gang of Four (GoF)](http://amzn.to/2zdz31y) book, which is a jam-packed, no-nonsense
 reference manual of design patterns. [Head First Design Patterns](http://amzn.to/2zdb7eA), on the
 other hand, is a light introduction to design patterns for a novice software developer.
 
