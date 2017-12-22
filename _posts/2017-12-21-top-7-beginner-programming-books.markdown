@@ -108,3 +108,7 @@ concurrency, race conditions, message queues, networking protocols, shared objec
 
 For such a comprehensive book on such a wide variety of topics, [TLPI](http://amzn.to/2CTZR95) is
 shockingly approachable even for a software engineer in the beginning stages of his or her career.
+
+
+I hope this article was helpful. You can follow the discussion on reddit
+[here](https://www.reddit.com/r/programming/comments/7lf31y/top_7_beginner_programming_books/).
