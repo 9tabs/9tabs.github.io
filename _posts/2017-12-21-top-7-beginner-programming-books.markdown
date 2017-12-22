@@ -7,16 +7,16 @@ categories: [listicles]
 
 When starting out as a developer, the amount of content to sift through seems unmanagable. Many
 experienced developers are quick to make absurd recommendations such as [The Structure and
-Interpretation of Computer Programs](https://goo.gl/bSX9nm) or [The Art of Computer
-Programming](https://goo.gl/KSwvDG). While these may be excellent books, they're not intended to
+Interpretation of Computer Programs](http://amzn.to/2BndZay) or [The Art of Computer
+Programming](http://amzn.to/2BkTlYP). While these may be excellent books, they're not intended to
 quickly introduce concepts that are necessary for creating fun and interesting software.
 
 I've done my best to curate the books that kept me interested in software development when I was
 first starting out. I have to thank the authors mentioned below for introducing me to the lucrative
 and exciting world of software engineering.
 
-## 1. [The C Programming Language](https://goo.gl/opSC7A) by Kernighan and Ritchie
-[The C Programming Language](https://goo.gl/opSC7A) by Brian Kernighan is a foundational book in
+## 1. [The C Programming Language](http://amzn.to/2CXtlmI) by Kernighan and Ritchie
+[The C Programming Language](http://amzn.to/2CXtlmI) by Brian Kernighan is a foundational book in
 software engineering. Even if you're not interested in embedded systems programming, learning the
 basics of C is critical for an intuitive understanding of how a computer works.
 
