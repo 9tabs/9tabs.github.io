@@ -151,11 +151,16 @@ actually sport 1-indexed arrays. A more comprehensive list can be found
 
 ### [0 Evaluates to `true`]() in Ruby
 
-... and only Ruby.
+... and only Ruby. \*
 
 ```ruby
 if 0 then print 'thanks, ruby' end # prints thanks, ruby
 ```
+
+<small>
+\* edit: It was pointed out on [reddit](https://goo.gl/gnm654) that this is true for Lua, Lisp, and
+Erlang as well.
+</small>
 
 ### [Trigraph, Digraphs, and Tokens]() in C
 
@@ -188,4 +193,4 @@ c/cpp, so digraphs, trigraphs, and tokens were supplied as to not discriminate a
 character sets.
 
 I hope this article was interesting. You can follow the discussion on reddit
-[here](http://reddit.com/r/programming/comments/7ltryz/evil_coding_incantations/).
+[here](https://goo.gl/gnm654).
