@@ -8,9 +8,9 @@ categories: [random]
 Ever since I watched the revered [Wat](https://www.destroyallsoftware.com/talks/wat) video by Gary
 Bernhardt, I've been fascinated with the strange behavior of certain programming languages. Some
 programming languages have more unexpected behaviors than others. Java, for example, has [a whole
-book](http://bestsnowboards2018.com/) dedicated to its edge cases and peculiarities. For C++'s
-equivalent, you can refer to the [C++ specification
-itself](https://www.iso.org/standard/68564.html) for just 200 USD. :expressionless:
+book](http://amzn.to/2zoCGSn) dedicated to its edge cases and peculiarities. For C++'s equivalent,
+you can refer to the [C++ specification itself](https://www.iso.org/standard/68564.html) for just
+200 USD. :expressionless:
 
 
 What follows is a collection of my favorite surprising, humorous, and yet valid incantations.
