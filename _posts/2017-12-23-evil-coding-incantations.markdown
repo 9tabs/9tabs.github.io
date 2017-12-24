@@ -188,4 +188,4 @@ c/cpp, so digraphs, trigraphs, and tokens were supplied as to not discriminate a
 character sets.
 
 I hope this article was interesting. You can follow the discussion on reddit
-[here](http://9tabs.com/random/2017/12/23/evil-coding-incantations.html).
+[here](http://reddit.com/r/programming/comments/7ltryz/evil_coding_incantations/).
