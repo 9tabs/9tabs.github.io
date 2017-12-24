@@ -31,6 +31,8 @@ urls:
       url: /feed.xml
     - text: Listicles
       url: /category/listicles
+    - text: Random
+      url: /category/random
 
 url: "https://9tabs.com"
 baseurl: ""
@@ -41,6 +43,7 @@ markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
+    jemoji
 
 compress_html:
   clippings: all
