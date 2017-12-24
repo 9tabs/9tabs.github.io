@@ -116,7 +116,7 @@ looks like an undocumented language feature. Fortunately, it's neither.
 
 ```c
 for (x = 3; x --> 0;) {
-    printf("%d ", d); // prints 2 1 0
+    printf("%d ", x); // prints 2 1 0
 }
 ```
 
