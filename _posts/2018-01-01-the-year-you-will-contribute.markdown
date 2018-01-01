@@ -7,8 +7,8 @@ categories: [random]
 
 Contributing to open source software is intimidating. The good news is that many projects and
 organizations constantly make valiant efforts to welcome new contributors. Thanks to various
-community efforts, making open source contributions is easier today than ever before. Starting from
-scratch, you can make your first contribution *today*.
+community initiatives, making open source contributions is easier today than ever before. Starting
+from scratch, you can make your first contribution *today*.
 
 Making contributions in 2018 will not only help you hone your skills (both technical and
 interpersonal), but it will also build your credibility, open career doors, and win you the
