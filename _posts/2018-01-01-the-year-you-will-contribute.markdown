@@ -70,7 +70,7 @@ join me in making it a year of friendly, wholesome collaboration.
 | -------------------------------------------------|:-----------------------------------------|
 | [Git Interactive Guide](https://goo.gl/9D5KZV)   | Easily Learn Git Basics                  |
 | [First Timers Only](http://firsttimersonly.com)  | Find Easy First-Timer Opportunities      |
-| [Up For Grabs](https://up-for-grabs.net)         | Find Projects Wanting Contributors       |
+| [Up For Grabs](http://up-for-grabs.net)          | Find Projects Wanting Contributors       |
 | [How To Contribute](https://goo.gl/SfyEEM)       | A Thorough Guide To Making Contributions |
 
 &nbsp;
