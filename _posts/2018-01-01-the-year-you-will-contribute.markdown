@@ -45,7 +45,7 @@ list](https://github.com/showcases/great-for-new-contributors).
 
 ## Breaking the Seal
 
-At the interest of empowering first-timer contributors, the friendly folks over at
+In the interest of empowering first-timer contributors, the friendly folks over at
 [firsttimersonly.com](http://www.firsttimersonly.com) have put forth an initiative to curate simple
 tasks for people who have *never made an open source contribution before*. Most of the changes that
 appear on [their GitHub label filter](https://goo.gl/NvSmtb) are easy enough that anyone can do
