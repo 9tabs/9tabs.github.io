@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2018: The Year You Will Contribute to Open Source"
+title:  "2018: The Year You Will Contribute to Open Source Software"
 date:   2018-01-01 10:14:15 -0700
 categories: [random]
 ---
@@ -46,7 +46,7 @@ list](https://github.com/showcases/great-for-new-contributors).
 ## Breaking the Seal
 
 At the interest of empowering first-timer contributors, the friendly folks over at
-[firsttimersonly.com](https://www.firsttimersonly.com) have put forth an initiative to curate simple
+[firsttimersonly.com](http://www.firsttimersonly.com) have put forth an initiative to curate simple
 tasks for people who have *never made an open source contribution before*. Most of the changes that
 appear on [their GitHub label filter](https://goo.gl/NvSmtb) are easy enough that anyone can do
 them.
