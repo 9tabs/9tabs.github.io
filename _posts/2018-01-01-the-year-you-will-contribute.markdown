@@ -75,4 +75,5 @@ join me in making it a year of friendly, wholesome collaboration.
 
 &nbsp;
 
-I hope this article was useful. You can follow the discussion on reddit [here]().
+I hope this article was useful. You can follow the discussion on reddit
+[here](https://redd.it/7ni8kt).
