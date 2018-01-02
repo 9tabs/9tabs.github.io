@@ -1,5 +1,5 @@
-title: Posts
-description: Posts
+title: 9tabs
+description: A software blog; the last tab on your browser.
 author: 9tabs
 github: https://github.com/9tabs
 about: When 8 tabs isn't enough.
@@ -44,6 +44,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jemoji
+    jekyll-seo-tag
 
 compress_html:
   clippings: all
