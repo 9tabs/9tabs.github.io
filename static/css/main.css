@@ -172,5 +172,25 @@ div.col-sm-3 img.profile-avatar {
 }
 
 td, th {
-  padding: 0px 10px 0px 0px !important;
+    padding: 0px 10px 0px 0px !important;
+}
+
+@media (min-width:992px) {
+    .desktop-only {
+        display:block !important;
+    }
+
+    .mobile-only {
+        display:none !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .mobile-only {
+        display:block !important;
+    }
+
+    .desktop-only {
+        display:none !important;
+    }
 }

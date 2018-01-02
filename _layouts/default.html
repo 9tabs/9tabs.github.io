@@ -142,7 +142,7 @@ layout: compress
               <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
             {% endfor %}
           </ul>
-          <ul class="sidebar-nav">
+          <ul class="sidebar-nav desktop-only">
             <strong>Support</strong><br />
             <a href="https://www.teepublic.com/t-shirt/2245605-0xcafebabe?store_id=144185">
               <img style="max-width: 70%; border-radius: 10px;" src="https://res.cloudinary.com/teepublic/image/private/s--oFlNbl89--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_395/c_crop,g_north_west,h_626,w_470,x_-38,y_-89/g_north_west,u_upload:v1462829018:production:blanks:ekerz3afkzxin2pgqj8h,x_-433,y_-414/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1514863931/production/designs/2245605_1.jpg" />
@@ -153,6 +153,12 @@ layout: compress
       </div>
       <div class="col-sm-8 col-offset-1 main-layout">
         {{ content }}
+        <ul class="sidebar-nav mobile-only">
+            <strong>Support</strong><br />
+            <a href="https://www.teepublic.com/t-shirt/2245605-0xcafebabe?store_id=144185">
+                <img style="max-width: 70%; border-radius: 10px;" src="https://res.cloudinary.com/teepublic/image/private/s--oFlNbl89--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_395/c_crop,g_north_west,h_626,w_470,x_-38,y_-89/g_north_west,u_upload:v1462829018:production:blanks:ekerz3afkzxin2pgqj8h,x_-433,y_-414/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1514863931/production/designs/2245605_1.jpg" />
+            </a>
+        </ul>
         <footer style="height: 60px;">
           &copy; {{ site.author }}
           {% if site.github %}
