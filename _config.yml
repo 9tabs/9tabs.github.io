@@ -33,6 +33,8 @@ urls:
       url: /category/listicles
     - text: Random
       url: /category/random
+    - text: Snippets
+      url: /category/snippets
 
 url: "https://9tabs.com"
 baseurl: ""
