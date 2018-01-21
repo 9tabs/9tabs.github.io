@@ -29,4 +29,4 @@ but using it also made a significant difference in the initialization time for o
 depend on pip packages.
 
 I hope this article was useful. You can follow the discussion on reddit
-[here]().
+[here](https://redd.it/7rwhbt).
