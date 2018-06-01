@@ -101,4 +101,4 @@ Their benefits far outweigh their costs. They are the exception to the rule that
 is hardly ever the right solution.
 
 I hope this article was interesting. You can follow the discussion on reddit
-[here]().
+[here](https://redd.it/8nwh1f).
